@@ -110,7 +110,7 @@ snake-game/
 
 Clone the repository:
 
-git clone https://github.com/your-username/snake-game.git
+git clone https://github.com/Sajju001/Snake-Game.git
 
 Open the project folder:
 
